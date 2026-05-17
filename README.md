@@ -13,5 +13,3 @@ This repository contains the Machine Learning projects completed during my CODSO
 - Scikit-learn
 - Google Colab
 
-## Author
-Samitha Prabu
